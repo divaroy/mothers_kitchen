@@ -1,0 +1,16 @@
+/*.recipe_snapshot > img{
+
+  background: lightblue;
+  border-radius: 50%;
+  width: 400px;
+  height: 400px;
+}*/
+
+.image-style-large{
+
+  background: lightblue;
+  border-radius: 50%;
+  width: 400px;
+  height: 400px;
+
+}

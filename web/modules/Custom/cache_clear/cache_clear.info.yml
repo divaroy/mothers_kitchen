@@ -1,0 +1,7 @@
+name: Clears Drupal Page Cache
+type: module
+description: 'Flushes Drupal Page Cache'
+package: Custom
+core: 8.x
+
+

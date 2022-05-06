@@ -1,0 +1,18 @@
+global-styling:
+  version: version
+
+  css:
+    theme:
+
+      css/style.css: {}
+      css/bootstrap_3.4.1.css: {}
+      css/bootstrap_3.3.7.min.css: {}
+
+
+  js:
+
+    js/jquery.min.js: {}
+    js/bootstrap.min.js: {}
+    js/jquery_3.2.0.min.js: {}
+    js/bootstrap_3.3.7.min.js: {}
+    js/script.js: {}

@@ -1,0 +1,21 @@
+<?php
+
+
+
+
+
+
+function featured_dish_theme($existing, $type, $theme, $path) {
+
+	return array(
+
+		'featured_dish' => [
+
+			'variables' => array('node_description' => '',
+								 'title' => '',
+								 'dish_image' => NULL),
+
+		]
+
+	);
+}

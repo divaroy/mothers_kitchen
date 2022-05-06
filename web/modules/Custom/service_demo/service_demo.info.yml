@@ -1,0 +1,5 @@
+name: this is a service module
+description: this is a module to demonstrate service activity in drupal 8
+type: module
+core: 8.x
+package: Custom

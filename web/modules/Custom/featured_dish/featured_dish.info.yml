@@ -1,0 +1,5 @@
+name: Featured Dish
+description: module to show 'featured dish' info on front page in the form of a block.
+package: Custom
+type: module
+core: 8.x

@@ -1,0 +1,4 @@
+services:
+  mysites_user_redirect.mod:
+    class: \Drupal\mysites_user_redirect\ModuleInfo
+    arguments: ['@current_user']

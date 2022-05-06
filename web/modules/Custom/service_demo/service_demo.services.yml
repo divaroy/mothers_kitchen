@@ -1,0 +1,5 @@
+services:
+  service_demo.date:
+
+    class: Drupal\service_demo\ReturnDate
+    arguments: ['@current_user']

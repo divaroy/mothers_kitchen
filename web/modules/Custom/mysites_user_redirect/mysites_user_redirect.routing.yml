@@ -1,0 +1,19 @@
+mysites_user_redirect.page_router:
+
+  path: '/mysites'
+
+  defaults:
+
+    _controller: 'Drupal\mysites_user_redirect\Controller\PageAssignmentController::userRedirect'
+
+    _title: 'Page Redirect'
+
+
+  requirements:
+
+    _permission: 'access content'
+
+
+  options:
+
+    no_cache: 'TRUE'

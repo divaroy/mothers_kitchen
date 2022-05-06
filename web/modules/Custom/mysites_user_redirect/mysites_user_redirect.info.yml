@@ -1,0 +1,7 @@
+name: Mysites User Redirect
+type: module
+description: 'Carries out page redirect based on user email'
+package: Custom
+core: 8.x
+
+

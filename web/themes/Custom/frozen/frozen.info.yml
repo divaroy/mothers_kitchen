@@ -1,0 +1,21 @@
+name: Frozen Theme
+description: It is a custom theme to drive our project
+type: theme
+core: 8.x
+base theme: classy
+screenshot: frozen.png
+
+regions:
+
+  slider: slider
+  header: Header
+  primary_menu: Primary Menu
+  content: content
+  left_sidebar: Left Sidebar
+  right_sidebar: Right Sidebar
+  footer_first: Footer First
+  footer_second: Footer Second
+
+libraries:
+  
+  - frozen/global-styling
